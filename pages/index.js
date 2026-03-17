@@ -177,8 +177,8 @@ export default function Home() {
                                         (585) 434-0044
                                     </a>{' '}
                                     or email us at{' '}
-                                    <a href="mailto:contact@labolarochester.com" className="text-blue-300 font-sans">
-                                        contact@labolarochester.com
+                                    <a href="mailto:labolarochester@gmail.com" className="text-blue-300 font-sans">
+                                        labolarochester@gmail.com
                                     </a>
                                     </span>
                                 </div>

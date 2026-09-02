@@ -11,7 +11,10 @@ class MyDocument extends Document {
       "image":"https://labolarochester.com/logo.png",
       "priceRange": "$$",
       "servesCuisine": "Spanish, Mediterranean",
-      "openingHours": "Mo-Fri 11:30-20:00",
+      "openingHours": [
+        "Mo-Fr 11:30-15:00",
+        "Mo-Fr 16:00-20:30"
+      ],
       "acceptsReservations": true,
       "menu": "https://labolarochester.com/#menu",
       "address":{

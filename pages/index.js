@@ -159,8 +159,9 @@ export default function Home() {
                             <div className="flex w-full justify-between border-y-2 py-6 my-6">
                                 <div className="w-auto">
                                     <p><b className="text-lg mb-4 w-full font-serif">Hours</b></p>
-                                    <p>Monday - Friday <span className="text-right block text-sm italic">11:30 AM - 8 PM</span></p>
-                                    <p>Saturday - Sunday <span className="text-right block text-sm italic">Private Events Only</span></p>
+                                    <p>Lunch <span className="text-right block text-sm italic">Monday - Friday</span><span className="text-right block text-sm italic">11:30 AM - 3:00 PM</span></p>
+                                    <p className="mt-3">Dinner <span className="text-right block text-sm italic">Monday - Friday</span><span className="text-right block text-sm italic">4:00 PM - 8:30 PM</span></p>
+                                    <p className="mt-3">Saturday &amp; Sunday <span className="text-right block text-sm italic">Private Events Only</span></p>
                                 </div>
                                 <div className="">
                                     <p><b className="text-lg mb-4 font-serif">Location</b></p>
